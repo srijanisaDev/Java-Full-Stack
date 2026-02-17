@@ -15,5 +15,7 @@ public class string {
         System.out.println(name3.equals(name5));
         System.out.println(name3.equalsIgnoreCase(name5));
 
+        //Mutable , synchronized
+
     }
 }
